@@ -17,6 +17,8 @@
     "knex": "<0.20.0",
     "lodash": "^4.17.20",
     "moment": "^2.29.1",
+    "pg": "^8.5.1",
+    "pg-connection-string": "^2.4.0",
     "request": "^2.88.2",
     "rss-parser": "^3.7.3",
     "simple-statistics": "^7.0.7",
