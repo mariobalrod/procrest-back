@@ -1,0 +1,61 @@
+<cities>
+  <city>
+    <name>Sevilla</name>
+    <image>https://i.imgur.com/dbH5XRi.png</image>
+  </city>
+
+  <city>
+    <name>Granada</name>
+    <image>https://i.imgur.com/KxAYa1s.png</image>
+  </city>
+
+  <city>
+    <name>Córdoba</name>
+    <image>https://i.imgur.com/QTpIVzq.png</image>
+  </city>
+
+  <city>
+    <name>Almería</name>
+    <image>https://i.imgur.com/AsVtjNb.png</image>
+  </city>
+
+  <city>
+    <name>Cuenca</name>
+    <image>https://i.imgur.com/E70sgos.jpg</image>
+  </city>
+
+  <city>
+    <name>Barcelona</name>
+    <image>https://i.imgur.com/C4WAZcO.jpg</image>
+  </city>
+
+  <city>
+    <name>Madrid</name>
+    <image>https://i.imgur.com/FuQMsj9.jpg</image>
+  </city>
+
+  <city>
+    <name>Palma de Mallorca</name>
+    <image>https://i.imgur.com/jUErpdO.jpg</image>
+  </city>
+
+  <city>
+    <name>Menorca</name>
+    <image>https://i.imgur.com/NaiIg7J.jpg</image>
+  </city>
+
+  <city>
+    <name>Valencia</name>
+    <image>https://i.imgur.com/ZPQLZbH.jpg</image>
+  </city>
+
+  <city>
+    <name>Tenerife</name>
+    <image>https://i.imgur.com/AQsamRI.jpg</image>
+  </city>
+
+  <city>
+    <name>Ibiza</name>
+    <image>https://i.imgur.com/4tnHvuz.jpg</image>
+  </city>
+</cities>

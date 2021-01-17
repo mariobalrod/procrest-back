@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "importeditems",
+  "info": {
+    "name": "importeditem"
+  },
+  "options": {
+    "draftAndPublish": false,
+    "timestamps": true,
+    "increments": true,
+    "comment": ""
+  },
+  "attributes": {
+    "import-content": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cities",
+  "info": {
+    "name": "City",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "apartments": {
+      "collection": "apartment",
+      "via": "city"
+    },
+    "image": {
+      "type": "string"
+    }
+  }
+}

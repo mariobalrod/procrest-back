@@ -1,0 +1,44 @@
+{
+  "kind": "collectionType",
+  "collectionName": "apartments",
+  "info": {
+    "name": "Apartment",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "pricePerMonth": {
+      "type": "float"
+    },
+    "booked": {
+      "type": "boolean"
+    },
+    "location": {
+      "model": "location"
+    },
+    "contact": {
+      "model": "contact"
+    },
+    "city": {
+      "via": "apartments",
+      "model": "city"
+    },
+    "image": {
+      "type": "string"
+    },
+    "categories": {
+      "collection": "category",
+      "via": "apartments"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
