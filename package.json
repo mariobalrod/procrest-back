@@ -22,7 +22,6 @@
     "request": "^2.88.2",
     "rss-parser": "^3.7.3",
     "simple-statistics": "^7.0.7",
-    "sqlite3": "^5.0.1",
     "strapi": "3.4.1",
     "strapi-admin": "3.4.1",
     "strapi-connector-bookshelf": "3.4.1",
